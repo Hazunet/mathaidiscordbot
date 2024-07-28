@@ -1,0 +1,3 @@
+[console_scripts]
+liteocr = liteocr.run_ocr:main
+
